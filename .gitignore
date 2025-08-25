@@ -1,0 +1,38 @@
+*.log
+*file/ etc
+
+Sample structure 
+
+# Maven target folder
+/target/
+
+# IDE files
+.idea/
+*.iml
+.eclipse/
+.classpath
+.project
+.settings/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+*.logs
+
+# TestNG output folder
+test-output/
+
+# WebDriver binaries
+chromedriver
+chromedriver.exe
+geckodriver
+geckodriver.exe
+
+# Credentials or secrets
+*.env
+*.properties
+credentials.txt
